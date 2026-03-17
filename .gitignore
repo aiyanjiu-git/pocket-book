@@ -1,0 +1,20 @@
+# 输出文件
+output/*.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+
+# 临时文件
+*.tmp
+*.log
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# 测试文件
+*.png
