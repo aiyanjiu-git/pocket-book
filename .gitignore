@@ -18,3 +18,22 @@ __pycache__/
 
 # 测试文件
 *.png
+*.jpg
+
+# 调试脚本
+check_*.py
+debug_*.py
+diagnose.py
+
+# 测试输出
+out*.txt
+
+# 临时文件夹
+.agent/
+.agents/
+_agent/
+_agents/
+skills/
+
+# Claude 临时文件
+.claude/
